@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"First steps/First Contract.sol": "FirstContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"First steps/ERC20.sol": {
+			"keccak256": "0x57a4efcea46eb6b4cf46c7c3da6428977d1d53ab4b1ecce43ccf9cfb1ea36c36",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2b1b7a2df5a1ef99a42bbcf914eb72782ad3b44403dbeb28bc0b9364699ca170",
+				"dweb:/ipfs/QmWvMqSoARJHv24owDJoGsUPUJENxNpQaugqdMrJxijjDu"
+			]
+		},
+		"First steps/First Contract.sol": {
+			"keccak256": "0x95744a6741d395f7d2c2568d36c5c7dcf0119dc866fe6bcc3afe7c36391f32f6",
+			"urls": [
+				"bzz-raw://ca573ecc9fbc32e35ec5f49bb9e9fa9ac3016754a37f9334e59c173c2e64050e",
+				"dweb:/ipfs/QmNqRMQNfiF8xmSDn8L869cjJwkmZ4Hjek7FVY82pHm4BK"
+			]
+		},
+		"First steps/SafeMath.sol": {
+			"keccak256": "0x10b026f5bf6336222f045103d95b94c408fcd4b36095222431626663f519da6a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb82567f03c95c1518b6d09700323ef2d11bcf587a23f220b5aef4cd0cdf433f",
+				"dweb:/ipfs/QmURQ56waPNQnLAeQYVDui2RJnC5fEKw9v2rA6L4PZhSsb"
+			]
+		}
+	},
+	"version": 1
+}

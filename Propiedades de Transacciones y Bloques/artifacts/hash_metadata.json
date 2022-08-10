@@ -1,0 +1,122 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "cadena",
+						"type": "string"
+					}
+				],
+				"name": "CalcularHash",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "cadena",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "entero",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "direccion",
+						"type": "address"
+					}
+				],
+				"name": "CalcularHash2",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "cadena",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "entero",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "direccion",
+						"type": "address"
+					}
+				],
+				"name": "CalcularHash3",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Propiedades de Transacciones y Bloques/keccak.sol": "hash"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Propiedades de Transacciones y Bloques/keccak.sol": {
+			"keccak256": "0x7fa73572b71fa305ebceb732762a32d2d8c505aa0f929fc22b3def05b176a76a",
+			"urls": [
+				"bzz-raw://7538c40e3ff49acf81a596f19ee75f535de2346495454490e6d3bae9d3a83f85",
+				"dweb:/ipfs/QmXYebpQ2Ab8qVjtV6wdj7La2ZXveRJMF26fjeo2GDMEXa"
+			]
+		}
+	},
+	"version": 1
+}
