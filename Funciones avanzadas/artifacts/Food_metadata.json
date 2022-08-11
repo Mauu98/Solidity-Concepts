@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Funciones avanzadas/internal_external.sol": "Food"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Funciones avanzadas/internal_external.sol": {
+			"keccak256": "0xde402c7df0b259be83419142f927611272e00c2115b4336a8c57f5363ea9b0da",
+			"urls": [
+				"bzz-raw://f138d84364cb12c0ab6ffa582c761e81d3509f274e10bb32a35f3c172f60a1cb",
+				"dweb:/ipfs/QmXSiHN4vP2rbiNcUZjzKf7nvAzqiUhid4fXTvoke82ioq"
+			]
+		}
+	},
+	"version": 1
+}
